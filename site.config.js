@@ -6,7 +6,7 @@
 
 const siteConfig = {
   // Domain Anda (tanpa garis miring di akhir). WAJIB diganti sebelum go-live.
-  siteUrl: "https://www.apotekmedizine.com",
+  siteUrl: "https://www.medizine.co.id",
 
   name: "Apotek Medizine",
   tagline: "Medicine for a better life",

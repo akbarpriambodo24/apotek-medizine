@@ -57,7 +57,7 @@ export default function Home() {
       name: site.name,
       slogan: site.tagline,
       description: site.description,
-      url: site.siteUrl,
+      url: `${site.siteUrl}/`,
       image: `${site.siteUrl}/tampak-depan-apotek-medizine.jpg`,
       ...(site.phone && { telephone: site.phone }),
       ...(site.email && { email: site.email }),
